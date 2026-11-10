@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+camera_calib.npz
+precland.log
+debug.jpg
+log.json
+panel.mp4
+*.bin
