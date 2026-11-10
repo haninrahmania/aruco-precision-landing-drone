@@ -4,7 +4,7 @@ A DIY quadcopter that lands itself on a printed ArUco marker. A Raspberry Pi 4 c
 
 This is a small-scale prototype of a bigger idea: **autonomous drones carrying HPV DNA samples (for cervical cancer screening) from remote Puskesmas (community health centres) in Indonesia to a lab.** Landing reliably on a known pad, without a pilot lining it up, is one of the first building blocks.
 
-**Demo video (flight log synced to the video):** https://youtu.be/aMslkezna4o
+**Demo video (flight log synced to the video):** https://youtu.be/laPuemzHMS4
 
 <img src="media/drone.jpg" alt="The drone next to its landing marker" width="380"> <img src="media/landing_with_log.jpg" alt="Landing with flight log" width="480">
 
